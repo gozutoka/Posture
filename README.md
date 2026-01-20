@@ -1,6 +1,6 @@
 # Posture
 Kodu çalıştırın: python .\app.py
-Tarayıcınızda http://localhost:5000 adresini açın
+https://achievements-alike-endorsed-supreme.trycloudflare.com adresini açın
 Kamera görüntüsü ve duruş analizi tarayıcıda görünecek!
 
 
